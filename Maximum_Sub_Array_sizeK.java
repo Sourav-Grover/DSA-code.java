@@ -29,3 +29,6 @@ public class Sliding_Window{
         return totalsum;
     }
 }
+
+
+// Output: 20
